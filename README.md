@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasdebanna&label=Profile%20views&color=0e75b6&style=flat" alt="dasdebanna" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Python, Django**
 
