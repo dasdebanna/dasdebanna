@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contact4451@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **In my free time, I try to reduce my BMI – <br>'Bugs per Million Instructions'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +27,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasdebanna&show_icons=true&locale=en" alt="dasdebanna" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasdebanna&" alt="dasdebanna" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)   
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dasdebanna&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dasdebanna&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
+
+---
+
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
