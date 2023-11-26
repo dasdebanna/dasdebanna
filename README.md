@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Django**
 
-- 📫 How to reach me **contact4451@gmail.com**
+- 📫 How to reach me **contact@dasdebanna.tech**
 
 - ⚡ Fun fact **In my free time, I try to reduce my BMI – <br>'Bugs per Million Instructions'**
 
