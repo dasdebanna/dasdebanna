@@ -1,13 +1,13 @@
 [![MasterHead](https://jayamwebsolutions.com/img/website.gif)](https://github.com/dasdebanna)
 <h1 align="center">Hi 👋, I'm Debanna Das</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasdebanna&label=Profile%20views&color=0e75b6&style=flat" alt="dasdebanna" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, REST API**
 
 - 📫 How to reach me **contact@dasdebanna.tech**
 
