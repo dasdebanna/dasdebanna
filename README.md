@@ -1,15 +1,15 @@
 [![MasterHead](https://jayamwebsolutions.com/img/website.gif)](https://github.com/dasdebanna)
 <h1 align="center">Hi 👋, I'm Debanna Das</h1>
-<h3 align="center">A passionate and driven aspiring Data Scientist with a strong foundation in Python, Machine Learning, Deep Learning, and Neural Networks. My journey in tech has been fueled by a deep fascination with the potential of AI to solve complex problems and drive innovation.</h3>
+<h3 align="center">A passionate and driven aspiring MLE with a strong foundation in Python, Machine Learning, Deep Learning, and Neural Networks. My journey in tech has been fueled by a deep fascination with the potential of AI to solve complex problems and drive innovation.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasdebanna&label=Profile%20views&color=0e75b6&style=flat" alt="dasdebanna" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **GenAI**
 
-- 💬 Ask me about **Python, REST API, Machine Learning**
+- 💬 Ask me about **ML, DL, NLP, CV**
 
-- 📫 How to reach me **contact@dasdebanna.tech**
+- 📫 How to reach me **dasdebanna.bitspilani@gmail.com**
 
 - ⚡ Fun fact **In my free time, I try to reduce my BMI – 'Bugs per Million Instructions'**
 
@@ -70,3 +70,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### Thanks for visiting
+<a href="https://info.flagcounter.com/IbJ3"><img src="https://s01.flagcounter.com/count2/IbJ3/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_50/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
