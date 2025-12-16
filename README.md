@@ -1,6 +1,6 @@
 [![MasterHead](https://jayamwebsolutions.com/img/website.gif)](https://github.com/dasdebanna)
 <h1 align="center">Hi 👋, I'm Debanna Das</h1>
-<h3 align="center">A passionate and driven aspiring MLE with a strong foundation in Python, Machine Learning, Deep Learning, and Neural Networks. My journey in tech has been fueled by a deep fascination with the potential of AI to solve complex problems and drive innovation.</h3>
+<h3 align="center">A passionate and driven aspiring scientist with a strong foundation in Python, Machine Learning, Deep Learning, and Neural Networks. My journey in tech has been fueled by a deep fascination with the potential of AI to solve complex problems and drive innovation.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasdebanna&label=Profile%20views&color=0e75b6&style=flat" alt="dasdebanna" /> </p>
